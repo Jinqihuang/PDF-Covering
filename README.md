@@ -15,6 +15,6 @@ List the necessary conditions for running the project and the software that must
 1. Install Python 3 enabling environment;
 2. Install Plug-ins pypdf2, reportlab, pdfminer;
 
-### test
+### Test
 
 After installing the python 3 environment and plug-ins, running the code directly can automatically test.
